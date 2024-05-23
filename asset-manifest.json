@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netflix--Cone-/static/css/main.d494797a.css",
+    "main.js": "/Netflix--Cone-/static/js/main.9540d12d.js",
+    "static/media/Netflix-logo.png": "/Netflix--Cone-/static/media/Netflix-logo.f113f795bdbaf927c49c.png",
+    "index.html": "/Netflix--Cone-/index.html",
+    "main.d494797a.css.map": "/Netflix--Cone-/static/css/main.d494797a.css.map",
+    "main.9540d12d.js.map": "/Netflix--Cone-/static/js/main.9540d12d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d494797a.css",
+    "static/js/main.9540d12d.js"
+  ]
+}
